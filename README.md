@@ -5,7 +5,7 @@
 
 # Purpose of the homework:
   Practice to write the unit test and makefile.
-# Requirement:
+# Requirements:
  1. Create `circle.h`, `rectangle.h`, `triangle.h`. You should follow the classes below:
 
     **Note: Each class constructor below are the skeleton. You should finish implementation by yourself.**
